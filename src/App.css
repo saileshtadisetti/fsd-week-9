@@ -1,0 +1,30 @@
+body {
+  font-family: Arial;
+  margin: 0;
+}
+
+.light {
+  background-color: white;
+  color: black;
+  min-height: 100vh;
+  padding: 20px;
+}
+
+.dark {
+  background-color: #222;
+  color: white;
+  min-height: 100vh;
+  padding: 20px;
+}
+
+section {
+  border: 1px solid gray;
+  padding: 20px;
+  margin: 20px 0;
+}
+
+button {
+  padding: 8px 15px;
+  margin: 5px;
+  cursor: pointer;
+}
